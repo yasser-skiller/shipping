@@ -135,7 +135,7 @@ header .footer-wave {
   height: 50px;
   border-radius: 1000px;
   z-index: 10;
-  animation: ripple 7s linear infinite;
+  animation: ripple 10s linear infinite;
   box-shadow: 5px 5px 10px rgba(163, 177, 198, 0.6),
     -5px -5px 10px rgba(255, 255, 255, 0.5);
 }
